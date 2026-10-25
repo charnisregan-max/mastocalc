@@ -1,4 +1,4 @@
-# mastocalc
+# MastoCalc
 MastoCalc is a Multi-factor, weighted & interaction-aware breast cancer risk model with experimental biomarker layers.
 ⚠️ **For experimental and educational purposes only.** MastoCalc is NOT a medical device and must NOT be used for diagnosis, screening, treatment or any medical decision. Its coefficients are approximate and have not been validated. If you have a health concern, talk to a healthcare professional.
 
