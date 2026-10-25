@@ -5,7 +5,7 @@ MastoCalc is a Multi-factor, weighted & interaction-aware breast cancer risk mod
 Built for the 2026 Congressional App Challenge by Viraj Srivastava, STISD Science Academy, Congressional District 34.
 
 **Live app:** https://mastocalc.netlify.app
-**Demo video:** [your YouTube link]
+**Demo video:** https://youtu.be/NeTK1p96V50
 
 ## What it does
 
